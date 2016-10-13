@@ -1,9 +1,9 @@
 
 # Tic-Tac-Toe Game 
 
-Copyright (c) | 2014 | Shuang Wu | University of Rochester 
+Copyright (c) | 2016 | Shuang Wu | University of Waterloo
 
-This is a GUI Tic-Tac-Toe game I implemented when I was in UR. 
+This is a GUI Tic-Tac-Toe game I first implemented in UR but made the better GUI recently.
 I also implemeted the AI for this game with a pretty high difficulty so it is very hard for user to win. There is also an JOptionPane which pops out with the highscore table. I created a file called "Winningrecord.txt" and it should store 0,0,0, now which is the three number for the amount of user wins, computer wins and draws. I use Scanner class to import the three numbers of the file into the program and put them in the message shown on the JOptionPane. Before the program exits, the new record will be written into the "Winningrecord.txt"using Formatter. 
 
 
